@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd211fda1c7e3e846bd19532fe88c3f0, type: 3}
+  m_Name: PlayerQuickSlot
+  m_EditorClassIdentifier: 
+  databases:
+  - {fileID: 11400000, guid: f9aa75ff3e848c143ad631ca2502bc31, type: 2}
+  type: 2
+  container:
+    slots:
+    - allowedItems: 
+      item:
+        id: -1
+        name: 
+        buffs: []
+      amount: 0
+    - allowedItems: 
+      item:
+        id: -1
+        name: 
+        buffs: []
+      amount: 0
+    - allowedItems: 
+      item:
+        id: -1
+        name: 
+        buffs: []
+      amount: 0
+    - allowedItems: 
+      item:
+        id: -1
+        name: 
+        buffs: []
+      amount: 0
+    - allowedItems: 
+      item:
+        id: -1
+        name: 
+        buffs: []
+      amount: 0
